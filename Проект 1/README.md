@@ -3,5 +3,8 @@
 Ярославле и областных городах: Ростов Великий и Рыбинск.
 # - Цель проекта:
   Проанализировать клиентов «Метанпромбанк» и выделить сегменты клиентов, которые склонны уходить из банка.
+# - Материалы
+* [Презентация](https://disk.yandex.ru/i/I5j2JAsK9tPylg)
+* [Дашборд](https://public.tableau.com/app/profile/sofiya8630/viz/_16931479660750/Dashboard1?publish=yes)
 # - Используемые библиотеки
 Pandas, scipy, numpy, matplotlib, seabron, plotly
